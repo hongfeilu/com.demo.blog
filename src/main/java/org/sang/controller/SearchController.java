@@ -30,6 +30,7 @@ public class SearchController {
 //        model.addAttribute("query",queryString);
 //		model.addAttribute("totalPages",page +"");
 //		model.addAttribute("page",page);
+       //你说行就行
         return "views/search";
     }
 
